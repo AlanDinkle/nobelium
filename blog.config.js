@@ -2,7 +2,7 @@ const BLOG = {
   title: '帆起随行',
   author: 'A.F.D',
   email: '',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://vercel.com/alandinkle/nobelium',
   description: 'A website that records my life and recommends something in the meantime.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
